@@ -63,3 +63,11 @@ footer {
     color: white;
     padding: 20px;
 }
+section img {
+    display: block;
+    margin: 20px auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
